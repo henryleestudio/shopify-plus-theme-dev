@@ -73,6 +73,10 @@
 
 /* base */
 
+.section-header .header:not(.drawer-menu) {
+  background-color: #5c6ac4bd;
+}
+
 .no-js:not(html) {
   display: none !important;
 }
