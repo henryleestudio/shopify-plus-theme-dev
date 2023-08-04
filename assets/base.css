@@ -73,7 +73,7 @@
 
 /* base */
 
-.section-header .header:not(.drawer-menu) {
+.section-header .header:not(.drawer-menu) .utility-bar .page-width {
   background-color: #5c6ac4bd;
 }
 
